@@ -1,0 +1,37 @@
+{
+    "profile" : [
+        {
+            "id" : 1,
+            "career" : 0,
+            "name" : "이주연",
+            "skill" : "React",
+            "email" : "juyeon7658@profile.com",
+            "isFindJob" : false
+            
+        },
+        {
+            "id" : 2,
+            "career" : 1,
+            "name" : "박은하",
+            "skill" : "JAVA",
+            "email" : "eunnn98@profile.com",
+            "isFindJob" : false
+        },
+        {
+            "id" : 3,
+            "career" : 2,
+            "name" : "윤지영",
+            "skill" : "Python",
+            "email" : "00yoon@profile.com",
+            "isFindJob" : false
+        },
+        {
+            "id" : 4,
+            "career" : 3,
+            "name" : "김민",
+            "skill" : "JavaScript",
+            "email" : "minmax@profile.com",
+            "isFindJob" : false
+        }
+    ]
+}
