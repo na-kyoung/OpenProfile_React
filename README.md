@@ -37,7 +37,7 @@
 - 데이터 전달/가져오기
   <div style="text-align:center">
     
-  [![데이터 전달하는 3가지 방법](https://velog-readme-stats.vercel.app/api?name=knk00&slug=React-리액트-값-전달)](https://github.com/na-kyoung/open_profile_react)
+  [![데이터 전달하는 3가지 방법](https://velog-readme-stats.vercel.app/api?name=knk00&slug=React-리액트-값-전달)](https://velog.io/@knk00/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%92-%EC%A0%84%EB%8B%AC)
   
   </div>
 
