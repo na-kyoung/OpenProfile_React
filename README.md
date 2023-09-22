@@ -1,5 +1,5 @@
 # :bust_in_silhouette:개발자 오픈 프로필 홈페이지
-간단하게 내 스킬과 프로필을 등록!
+간편하게 내 스킬과 프로필을 등록!
 
 <br />
 
@@ -28,6 +28,19 @@
 <br />
 
 ## 고민하고 중점을 둔 부분
+- json 서버에서 fetch() 함수로 데이터를 가져와 json 형식으로 반환하는 복잡하고 반복되는 코드 <br />
+  → UseFetch 컴포넌트로 분리하여 필요 시 호출 (UseFetch.jsx) <br />
+  → 코드 간결해짐
+- 프로필 수정 기능 (UpdateProfile.jsx)
+  - defaultValue - input form에 데이터 가져오기
+  - useRef - 수정한 데이터 value 전달
+- 데이터 전달/가져오기
+  <div style="text-align:center">
+    
+  [![데이터 전달하는 3가지 방법](https://velog-readme-stats.vercel.app/api?name=knk00&slug=React-리액트-값-전달)](https://github.com/na-kyoung/open_profile_react)
+  
+  </div>
 
+<br />
 
 ## 결과
