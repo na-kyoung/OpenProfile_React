@@ -32,9 +32,13 @@
   → UseFetch 컴포넌트로 분리하여 필요 시 호출 (UseFetch.jsx) <br />
   → 코드 간결해짐
 - 프로필 수정 기능 (UpdateProfile.jsx)
-  - defaultValue - input form에 데이터 가져오기
-  - useRef - 수정한 데이터 value 전달
-- 데이터 전달/가져오기
+  <div style="text-align:center">
+    
+    [![데이터 수정하기](https://velog-readme-stats.vercel.app/api?name=knk00&slug=React-데이터-수정하기-useRef-defaultValue-selected)](https://velog.io/@knk00/React-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-useRef-defaultValue-selected)
+
+    </div>
+
+- 데이터 전달하기
   <div style="text-align:center">
     
   [![데이터 전달하는 3가지 방법](https://velog-readme-stats.vercel.app/api?name=knk00&slug=React-리액트-값-전달)](https://velog.io/@knk00/React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%92-%EC%A0%84%EB%8B%AC)
