@@ -48,30 +48,16 @@
 <br />
 
 ## 결과
-- 메인 화면
+![1](https://github.com/na-kyoung/open_profile_react/assets/137421820/e953de12-4125-45f9-ae1a-0b98d49713d5)
 
-  <img width="500" alt="메인화면" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/46aa341d-94bd-48bf-a00a-51d5995fcb65">
-  
-- 연차별 프로필 화면 (0년차)
+![2](https://github.com/na-kyoung/open_profile_react/assets/137421820/04e0b98c-efb5-4a0b-ba1f-ebef24b16907)
 
-  <img width="469" alt="프로필화면_0년차" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/8172770d-b938-452a-9656-c37331f79354">
-  
-- 경력 추가 기능
+![3](https://github.com/na-kyoung/open_profile_react/assets/137421820/17fa7c62-db9d-4ee9-9829-a978fc21c53d)
 
-  <img width="520" alt="경력추가기능" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/5c311373-2278-445e-a2cb-a6aeb4c63dad">
-  
-- 프로필 추가 기능
+![4](https://github.com/na-kyoung/open_profile_react/assets/137421820/977c307a-52e6-4681-b860-2da47a4947e4)
 
-  <img width="631" alt="프로필추가기능" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/39d67cde-24e2-4b04-ba86-a03c9531e023">
+![5](https://github.com/na-kyoung/open_profile_react/assets/137421820/4a2a355d-5c5a-486a-b572-407a49e7cc91)
 
-- 프로필 수정 기능
+![6](https://github.com/na-kyoung/open_profile_react/assets/137421820/fb8cd545-78e0-48ec-a1c6-b230730b6d7e)
 
-  <img width="803" alt="프로필수정기능" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/bd2bd84a-1bcf-4901-873e-ed664cb8268a">
-
-- 구직 상태 변경 기능
-
-  <img width="503" alt="구직상태변경기능" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/cba495ec-de30-4bf3-9878-116edccba185">
-
-- 프로필 삭제 기능
-
-  <img width="842" alt="프로필삭제기능" src="https://github.com/na-kyoung/open_profile_react/assets/137421820/2d8a3833-7f01-4fcc-add0-0e51f2b89a4c">
+![7](https://github.com/na-kyoung/open_profile_react/assets/137421820/ddc65203-5ce2-4856-b76d-7aa4b878d737)
