@@ -38,6 +38,7 @@
 
 <br />
 
+<!--
 ## 기본적인 처리
 - JSON Server에서 데이터 가져오기
 - fetch()를 이용하여 REST API 호출 및 데이터 CRUD 처리
@@ -66,6 +67,7 @@
   </div>
 
 <br />
+-->
 
 ## 결과
 ![1](https://github.com/na-kyoung/open_profile_react/assets/137421820/e953de12-4125-45f9-ae1a-0b98d49713d5)
